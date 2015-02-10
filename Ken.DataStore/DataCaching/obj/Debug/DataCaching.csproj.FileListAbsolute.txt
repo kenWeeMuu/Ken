@@ -1,0 +1,1 @@
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\bin\Debug\DataCaching.exe.config
