@@ -1,1 +1,5 @@
 C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\bin\Debug\DataCaching.exe.config
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\bin\Debug\DataCaching.exe
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\bin\Debug\DataCaching.pdb
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\obj\Debug\DataCaching.exe
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataCaching\obj\Debug\DataCaching.pdb

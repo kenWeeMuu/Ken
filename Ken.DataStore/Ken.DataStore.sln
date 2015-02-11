@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCaching", "DataCaching\DataCaching.csproj", "{F21F4439-2953-4D55-83BB-99CB8B112D93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTools", "DataTools\DataTools.csproj", "{8BA0ABC0-D07F-43BA-ACFF-2CA0F46D17D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{219FAACE-FEDA-4143-9BB4-38CBFB45F394}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F21F4439-2953-4D55-83BB-99CB8B112D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21F4439-2953-4D55-83BB-99CB8B112D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21F4439-2953-4D55-83BB-99CB8B112D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA0ABC0-D07F-43BA-ACFF-2CA0F46D17D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA0ABC0-D07F-43BA-ACFF-2CA0F46D17D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA0ABC0-D07F-43BA-ACFF-2CA0F46D17D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA0ABC0-D07F-43BA-ACFF-2CA0F46D17D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219FAACE-FEDA-4143-9BB4-38CBFB45F394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219FAACE-FEDA-4143-9BB4-38CBFB45F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219FAACE-FEDA-4143-9BB4-38CBFB45F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219FAACE-FEDA-4143-9BB4-38CBFB45F394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

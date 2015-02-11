@@ -1,0 +1,10 @@
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.Properties.Resources.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.GeneratingPersistentClasses.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.XtraForm1.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\bin\Debug\DataTools.dll
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\bin\Debug\DataTools.pdb
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.dll.licenses
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.dll
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\DataTools\obj\Debug\DataTools.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\bin\Debug\Main.exe
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\bin\Debug\Main.pdb
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\bin\Debug\DataTools.dll
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\bin\Debug\DataTools.pdb
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.ModuleTileNavPane.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.Run.resources
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.exe.licenses
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.exe
+C:\Users\Administrator\Ken_Project\Ken\Ken.DataStore\Main\obj\Debug\Main.pdb

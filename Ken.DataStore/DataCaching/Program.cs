@@ -1,5 +1,4 @@
 ﻿
-using System;
 
 namespace DataCaching
 {
@@ -7,7 +6,7 @@ namespace DataCaching
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+
         }
     }
 }
